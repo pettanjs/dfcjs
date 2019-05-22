@@ -1,0 +1,22 @@
+{
+  "name": "dfcjs",
+  "title": "dfc",
+  "description": "Minimal, no-dependency JavaScript DOM Manipulator",
+  "bugs": {
+    "url": "https://github.com/pettanjs/dfcjs/issues",
+    "email": "knh.jabbany@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pettanjs/dfcjs.git"
+  },
+  "author": "Jim Chen <knh.jabbany@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "template",
+    "dom",
+    "minimal"
+  ],
+  "main": "dfc.js",
+  "version": "0.1.0"
+}

@@ -45,7 +45,7 @@
     for (var propName in props) {
       if (propName === 'style') {
         for (var styleKey in props.style) {
-          parent.style[styleKey] = props.style[styeKey];
+          parent.style[styleKey] = props.style[styleKey];
         }
       } else if (propName === 'className') {
         parent.className = props[propName];

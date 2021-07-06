@@ -1,7 +1,8 @@
 /**
  * DFC - Minimal JS DOM Manipulator
  * @author Jim Chen
- * @
+ * @source https://github.com/pettanjs/dfcjs
+ * @license MIT
  **/
 'use strict';
 (function (root, factory) {

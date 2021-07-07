@@ -67,9 +67,9 @@
    **/
   function Compose(type, props, children, callback) {
     if (typeof this === 'undefined' || this === null) {
-      self = {};
+      var self = {};
     } else {
-      self = this;
+      var self = this;
     }
     self._element = null;
     self._callback = callback;
